@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "Testing webScrapping with node.js",
   "main": "app.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "CCM",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "puppeteer": "^22.13.0"
+  }
 }

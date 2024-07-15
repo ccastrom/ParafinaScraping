@@ -1,0 +1,12 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "description": "Testing webScrapping with node.js",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CCM",
+  "license": "ISC"
+}
